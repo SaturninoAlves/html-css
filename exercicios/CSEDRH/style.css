@@ -1,0 +1,57 @@
+@charset 'UTF-8';
+
+body{
+    background-color: #e1f0eb;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+}
+
+nav{
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.226);
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.384);
+    border-radius: 10px 0px;
+}
+nav > a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+        
+}
+
+nav > a:hover{
+    color: red;
+    text-decoration: underline;
+}
+nav#contato{
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.226);
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.384);
+    border-radius: 10px 0px;
+
+}
+
+footer{
+    background-color: rgb(106, 197, 167);
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+}
+footer > p {
+    margin: 0px;
+}
+   
+    

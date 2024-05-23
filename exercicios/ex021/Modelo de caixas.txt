@@ -1,0 +1,40 @@
+heigth = aultura
+
+width = largura
+
+border = borda
+
+padding = acochoamento / preenchimento(espaço interno)
+
+margin = margem (espaço externo)
+
+outline = contorno/traçado
+
+box-level (na outra linha)
+
+div
+h1 - h6
+p
+main
+header
+article
+aside
+footer
+form
+video
+
+
+inline-level (mesma linha)
+
+spam
+a
+code
+smalll
+strong
+em
+sup - sub
+label
+button
+imput
+select
+

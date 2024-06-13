@@ -18,9 +18,12 @@
             padding: 8px;
         }
         th, td{
-            border: ipx solid black;
+            border: 1px solid black;
             padding: 8px;
             text-align: center;
+        }
+        col.cnome{
+            background-color: aquamarine;
         }
 
 
@@ -30,6 +33,12 @@
     <h1>Exercicio de Tabela</h1>
 
     <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="csexo">
+            <col class="cidade">
+            <col class="cprof">
+        </colgroup>
         <caption>Cadastro</caption>
         <tr>
             <th scope="col">Nome</th>

@@ -30,7 +30,7 @@ menu a {
 }
 
 menu a:hover{
-    background-color: lightgrey;
+    background-color: rgb(155, 152, 152);
 }
 main{
     width: 90vw;

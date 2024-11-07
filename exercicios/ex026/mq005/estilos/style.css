@@ -12,9 +12,20 @@ header{
     padding: 10px;
     text-align: center;
 }
+i#burger{
+    background-color: rgb(92, 91, 91);
+    color: white;
+    display: block;
+    padding: 10px;
+    cursor: pointer;
+}
+i#burger:hover{
+    background-color: white;
+    color: black;
+}
 
 menu{
-    display: block;
+    display: none;
 }
 menu li {
     list-style-type: none;
